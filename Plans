@@ -1,0 +1,11 @@
+Point System
+Have the games return a point after completion to the UniversalGame Launcher
+Point multiplier should be used to average out points return
+
+Snake/ Pit Fall point system is based on the number of (Snake - Pellets ate before collision with body or border,
+Pit Fall - Pits successfully created before falling into a pit) Max Point return is 100
+
+Connect Four point system is based on win conditions (Win, Lose or Tie)
+
+Tic Tac Toe
+
